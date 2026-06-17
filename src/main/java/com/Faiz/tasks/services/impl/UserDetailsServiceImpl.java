@@ -1,4 +1,4 @@
-package com.Faiz.tasks.services;
+package com.Faiz.tasks.services.impl;
 
 import com.Faiz.tasks.repositories.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;

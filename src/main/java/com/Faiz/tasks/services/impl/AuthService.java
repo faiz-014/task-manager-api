@@ -1,4 +1,4 @@
-package com.Faiz.tasks.services;
+package com.Faiz.tasks.services.impl;
 
 import com.Faiz.tasks.dtos.requestDtos.LoginRequest;
 import com.Faiz.tasks.dtos.requestDtos.UserRequest;
